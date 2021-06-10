@@ -6,7 +6,7 @@
 
 boostcamp에 있는 템플릿을 받아 내가 원하는 양식과 삽입하고 싶은 내용으로 수정.
 
-html을 클릭해도 되고 https://gunom.github.io로 접속 가능.
+html을 클릭해도 되고 https://gunom.github.io 로 접속 가능.
 
 
 
